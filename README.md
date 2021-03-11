@@ -1,5 +1,6 @@
-# professionalPracticeGroup
+# Welcome to Open Sauce
 Our group repository for IT5013 Professional Practice
 
 
- - [ ] Mike Lab Sauce
+ - [ ] Mike Lab Sauce 
+ - [ ] John Sawce
