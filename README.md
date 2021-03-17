@@ -12,4 +12,4 @@ App idea - Given text input(s) from a user, generate an wallpaper, background, h
  - Uses only open source or user provided backgrounds or designs
 
 
-# Can yo usee this comment in the main Branch ?
+- [ ] Using your own branch could lead to problems if you dont do a Pull request.
