@@ -10,3 +10,6 @@ App idea - Given text input(s) from a user, generate an wallpaper, background, h
  - Create customised backgrounds
  - Create abstract art
  - Uses only open source or user provided backgrounds or designs
+
+
+- [ ] Using your own branch could lead to problems if you dont do a Pull request.
