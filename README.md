@@ -7,3 +7,5 @@ Please add a value to the Our Values file, then look at the projects tab for you
  - [ ] John Sawce - JW
  - [ ] Using your own branch could lead to problems if you dont do a Pull request. - ML
  - [ ] Find out what a branch is and how to do a Pull request asap! - DA
+ - [ ] Have Fun 
+ 
