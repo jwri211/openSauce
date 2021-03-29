@@ -2,12 +2,10 @@
 
 A Sense of humour! - JW
 
-Our webcams are always off.
-
-Our communications will always be clear and unpixalated - ML
-
 Always be positive! - DA
 
 Respect each others different view points and experiences - DA
 
 Every team member to have the oppertunity to share their vision and concerns -ML
+
+Environmental responsibility.
